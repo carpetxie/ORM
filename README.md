@@ -60,9 +60,6 @@ The `ORM` was trained by `training.txt`, which consists of my personal strategy 
 
 We note a **10.2%** increase against the AI using the `ORM` as opposed to my `vibes methodology`. Moreover, we reduced their global average win rate by more than **40%** using the `ORM`.
 
-## Reflection
-
-The biggest takeaway is in naturally discovering the importance of loss. I wanted to stray away from a uniform distribution, knowing that I ought to tune my hyperparameters to be more biased to recent events. Yet, how do I know which direction to tune? I realised that loss is the metric that defines directionality for us. 
 
 ---
 
