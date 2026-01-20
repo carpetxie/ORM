@@ -50,7 +50,7 @@ Naturally, as `loss_percent_x` increases, `alpha` increases as well, placing mor
 
 With that, this is our simple algorithm for RPS, which I will call the Occam’s Razor Model (`ORM`).
 
-Using `ORM`, I played against the AI at http://www.essentially.net/rsp. The AI’s overall win percentage is **62.07%**. However, its win rate against `ORM` was **only 20.6% across 107 games**. The results are shown below:
+Using `ORM`, I played against the AI at http://www.essentially.net/rsp. The AI’s global win percentage is **62.07%**. However, its win rate against `ORM` was **only 20.6% across 107 games**. The results are shown below:
 
 * **43 Wins (40.2%)**  
 * **22 Losses (20.6%)**  
